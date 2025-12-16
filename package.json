@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mitre/inspec-profile-update-action#readme",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.30.2"
   }
 }
