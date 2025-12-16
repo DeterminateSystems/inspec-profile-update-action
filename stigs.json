@@ -591,7 +591,7 @@
     "url": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_GPOS_V3R2_SRG.zip",
     "size": "\u2014",
     "version": "V3R2",
-    "file": "https://raw.githubusercontent.com/mitre/inspec-profile-update-action/main/benchmarks/DISA/U_GPOS_SRG_V3R2_Manual-xccdf.xml"
+    "file": "https://raw.githubusercontent.com/DeterminateSystems/inspec-profile-update-action/push-ovvnrntqznqy/benchmarks/DISA/U_GPOS_SRG_V3R2_Manual-xccdf.xml"
   },
   {
     "id": "Google_Android_10-x_STIG",
